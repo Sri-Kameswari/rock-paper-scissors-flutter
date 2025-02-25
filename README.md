@@ -1,16 +1,11 @@
-# rock_paper_scissors
+# Rock, Paper, Scissors - Flutter App
 
-A new Flutter project.
+This is a simple Rock, Paper, Scissors game built using Flutter. The app allows users to select Rock, Paper, or Scissors, then displays the computer's choice and determines the winner.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repo. 
+2. Install Dependencies: flutter pub get
+3. Run the app: flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/38a30acc-a214-4058-be90-c93674531de5)
