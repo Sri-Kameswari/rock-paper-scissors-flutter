@@ -10,8 +10,10 @@ This is a simple Rock, Paper, Scissors game built using Flutter. The app allows 
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/38a30acc-a214-4058-be90-c93674531de5)
-![image](https://github.com/user-attachments/assets/265453ee-1f89-4bd8-806a-947b12f4462e)
-![image](https://github.com/user-attachments/assets/411b4865-7cac-4781-b45e-4a1fcc4f9959)
+<img src="https://github.com/user-attachments/assets/38a30acc-a214-4058-be90-c93674531de5" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/265453ee-1f89-4bd8-806a-947b12f4462e" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/411b4865-7cac-4781-b45e-4a1fcc4f9959" width="300"/>
 
 
